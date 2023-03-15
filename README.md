@@ -1,7 +1,12 @@
-## Movie_recommendations
+# Movie_recommendations
 
-### Members
+## Members
 
-* [Mariela Arias Rojo](https://github.com/marielaAriass)
-* [Leonardo Ariel Tapia Figueroa] ()
-* Debora
+* [Mariela Yael Arias Rojo](https://github.com/marielaAriass)
+* [Leonardo Ariel Tapia Figueroa]()
+* [Debora]()
+
+## Definition 
+
+## Overall Objectives
+
